@@ -5,5 +5,6 @@ if (n > 0)
            return i;
        }
 
-
+else  /* Wrong */
+    printf("error --n is negative" "\n");
 
