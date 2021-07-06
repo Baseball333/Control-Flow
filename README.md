@@ -17,3 +17,7 @@ else
 Fourth Commit:
 The evaluation of an expression relies on its validity; If the expression is valid, statement1 is executed. If the opposite is true statement2 is executed.
 The else portion of an if-else is optional, thus ambiguity arises when else is omitted. The following program describes such a situation.
+
+Fifth Commit:
+The majority of this chapter's notes has been written on Emacs and not transferred to Github. The remainder of the chapter will be represented by code uploaded to
+the remainder of this repository.
