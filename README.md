@@ -21,3 +21,6 @@ The else portion of an if-else is optional, thus ambiguity arises when else is o
 Fifth Commit:
 The majority of this chapter's notes has been written on Emacs and not transferred to Github. The remainder of the chapter will be represented by code uploaded to
 the remainder of this repository.
+
+Sixth Commit:
+The next file describes a program which finds an element within an array. 
