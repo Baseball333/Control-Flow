@@ -24,3 +24,7 @@ the remainder of this repository.
 
 Sixth Commit:
 The next file describes a program which finds an element within an array. 
+
+Seventh Commit:
+I'm just going to write the rest of the programs since the month is almost over and half of the book has been completed.__
+
